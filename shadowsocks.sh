@@ -9,7 +9,7 @@ clear
 echo "#############################################################"
 echo "# Install Shadowsocks(libev) for Debian or Ubuntu (32bit/64bit)"
 echo "#"
-echo "# Author: ajasondeng”
+echo "# Author: ajasondeng"
 echo "#"
 echo "#############################################################"
 echo ""
